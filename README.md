@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "1" + 1 = "11" (js moment)
 
 # 😎 Skills
- - **C#**  - studying for about 3 years 😊
- - **Python** - my favorite language, I have been learning for 5 years ❤️
- - **Java** - Started recently, 3 months ago 😒
+ - 😊 **C#**  - studying for about 3 years 
+ - ❤️ **Python** - my favorite language, I have been learning for 5 years 
+ - 😒 **Java** - Started recently, 3 months ago 
 
 # 😘 My favorite...
 
