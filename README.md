@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 😎 Skills
  - 😊 **C#**  - studying for about 2-3 years 
  - ❤️ **Python** - my favorite language, I have been learning for 5 years 
- - 😒 **Java** - Started recently, 3 months ago and doesnt learning
+ - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
  - 😈 **С++** - I wanna learn
 
 # 😘 My favorite...
