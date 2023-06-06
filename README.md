@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on "What to cook?" app
+- 🔭 I’m currently working on "Excelerator" app
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: "1" + 1 = "11" (JavaScript moment)
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 # 😘 My favorite...
 
- - 👾 Game Engine - **Unity**
- - 💻 Programming Language - **Python**
+ - 👾 Game Engine - **Unreal Engine**
+ - 💻 Programming Language - **Python** and **C#**
  - 🤖 IDE - **JetBrains**
  - 🧐 Language - **English**
  - 💙 Country - **Ukraine**
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # ✉️ How to reach me
 
- - 📱 Discord - **Zenisoft#9674**
+ - 📱 Discord - **Zenisoft#2023**
  - 📧 Email - **zenisoftgames@gmail.com**
  - 📲 Telegram - **https://t.me/ImMelvi**
 
