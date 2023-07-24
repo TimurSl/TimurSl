@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: "1" + 1 = "11" (JavaScript moment)
 
-# 😎 Skills
+# 😎 Programming Languages
+## Good Experience:
  - 😊 **C#**  - studying for about 2-3 years 
- - ❤️ **Python** - my favorite language, I have been learning for 5 years 
+ - ❤️ **Python** - my favorite language, I have been learning for 5 years
+## Bad Experience (but i know syntax) 
  - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
  - 😈 **С++** - I wanna learn
 
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
 
 # ✉️ How to reach me
 
- - 📱 Discord - **Zenisoft#2023**
+ - 📱 Discord - **@zenisoft**
  - 📧 Email - **zenisoftgames@gmail.com**
  - 📲 Telegram - **https://t.me/ImMelvi**
 
