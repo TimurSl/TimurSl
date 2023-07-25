@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Good Experience:
  - 😊 **C#**  - studying for about 2-3 years 
  - ❤️ **Python** - my favorite language, I have been learning for 5 years
-## Bad Experience (but i know syntax) 
+## Bad Experience (but i know syntax):
  - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
  - 😈 **С++** - I wanna learn
 
