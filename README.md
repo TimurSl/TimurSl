@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on "Excelerator" app
+- 🔭 I’m currently working on "Space Race" game
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: "1" + 1 = "11" (JavaScript moment)
