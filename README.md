@@ -18,16 +18,16 @@ Here are some ideas to get you started:
  - ❤️ **Python** - my favorite language, I have been learning for 5 years
 ## Bad Experience (but i know syntax):
  - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
- - 😈 **С++** - I wanna learn
+ - 😈 **С++** - Learning with Unreal Engine 5
 
 # 😘 My favorite...
 
  - 👾 Game Engine - **Unreal Engine**
- - 💻 Programming Language - **Python** and **C#**
+ - 💻 Programming Language - **Python**, **C++**, **C#**
  - 🤖 IDE - **JetBrains**
  - 🧐 Language - **English**
  - 💙 Country - **Ukraine**
- - 🍵 Drink - **Tea**
+ - 🍵 Drink - **Tea** and **Coffee**
 
 # ✉️ How to reach me
 
