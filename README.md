@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I currently dont work on any project 
+- 🔭 I currently work on Orderline project
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: "1" + 1 = "11" (JavaScript moment)
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 # 😎 Programming Languages
 ## Good Experience:
  - 😊 **C#**  - studying for about 2-3 years 
- - ❤️ **Python** - my favorite language, I have been learning for 5 years
+ - ❤️ **Python** - My favorite language for automation
+ - 😈 **С++** - My favorite, learning with Unreal Engine 5
 ## Bad Experience (but i know syntax):
  - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
- - 😈 **С++** - Learning with Unreal Engine 5
+ 
 
 # 😘 My favorite...
 
@@ -32,6 +33,6 @@ Here are some ideas to get you started:
 # ✉️ How to reach me
 
  - 📱 Discord - **@zenisoft**
- - 📧 Email - **zenisoftgames@gmail.com**
+ - 📧 Email - **timurslinko1@gmail.com**
  - 📲 Telegram - **https://t.me/ImMelvi**
 
