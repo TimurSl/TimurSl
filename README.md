@@ -1,38 +1,39 @@
-# Hi there 👋
+# Hi there!
 
-<!--
-**TimurSl/TimurSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Melvi 
 
-Here are some ideas to get you started:
--->
+Also known as Zenisoft, Tymur Slynko 
 
+# About me
 
-- 🔭 I currently work on Orderline project
-- 🌱 I’m currently learning C++
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: "1" + 1 = "11" (JavaScript moment)
+Im **Game-Dev, Coder**
 
-# 😎 Programming Languages
-## Good Experience:
- - 😊 **C#**  - studying for about 2-3 years 
- - ❤️ **Python** - My favorite language for automation
- - 😈 **С++** - My favorite, learning with Unreal Engine 5
-## Bad Experience (but i know syntax):
- - 😒 **Java** - Started not recently, 7 months ago and doesnt learning
- 
+My Dev Stack:
+- UE5
+- C++
+- Common UI
+- Gameplay Ability System
+- UnrealMvvm
 
-# 😘 My favorite...
+# Some other info:
 
- - 👾 Game Engine - **Unreal Engine**
- - 💻 Programming Language - **Python**, **C++**, **C#**
- - 🤖 IDE - **JetBrains**
- - 🧐 Language - **English**
- - 💙 Country - **Ukraine**
- - 🍵 Drink - **Tea** and **Coffee**
+I’m a game developer focused on responsive gameplay systems and clean UI architecture. I primarily work with Unreal Engine 5, using C++ for core mechanics, Common UI for interfaces, Gameplay Ability System for scalable logic, and UnrealMvvm to keep projects modular and maintainable.
 
-# ✉️ How to reach me
+I’m a big fan of the Dune universe, with House Atreides as my clear favorite.
 
- - 📱 Discord - **@zenisoft**
- - 📧 Email - **timurslinko1@gmail.com**
- - 📲 Telegram - **https://t.me/ImMelvi**
+Key points:
+- Technologies: Unreal Engine 5, C++, C#, Python
+- Basic electronics knowledge (soldering)
+- OS: NixOS; experienced Linux user
 
+Games I enjoy:
+- Dune: Awakening
+- Fallout 76
+- Fallout: New Vegas
+- Fallout 2
+- Ori and the Will of the Wisps
+- Hollow Knight: Silksong
+
+    S.T.A.L.K.E.R. 2
+
+Birthday: March 1
